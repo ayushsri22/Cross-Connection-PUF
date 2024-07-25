@@ -1,4 +1,4 @@
-# Coco Puf Project
+# Cross Connection PUF
 
 ## Table of Contents
 - [Introduction](#introduction)
